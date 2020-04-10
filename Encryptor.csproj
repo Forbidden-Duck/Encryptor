@@ -7,8 +7,8 @@
     <ProjectGuid>{27FE6371-9589-437F-A220-47DD2776646B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PasswordEncryptor</RootNamespace>
-    <AssemblyName>PasswordEncryptor</AssemblyName>
+    <RootNamespace>Encryptor</RootNamespace>
+    <AssemblyName>Encryptor</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
