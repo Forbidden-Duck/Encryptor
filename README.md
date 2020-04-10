@@ -1,4 +1,4 @@
-<https://forbidden-duck.github.io/PasswordManager/>
+<https://forbidden-duck.github.io/Encryptor/>
 # Encryptor Project
 
 This project was a created on 10/04/2020 at 11:00am AEST.\
